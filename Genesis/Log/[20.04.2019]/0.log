@@ -1,0 +1,104 @@
+[20.04.2019 08:06:04] ***START_FUNCTION_MAIN***
+[20.04.2019 08:06:04] Load world: Worlds/world/world.struct
+[20.04.2019 09:35:29] ***START_FUNCTION_MAIN***
+[20.04.2019 09:35:29] Load world: Worlds/world/world.struct
+[20.04.2019 09:35:54] ***START_FUNCTION_MAIN***
+[20.04.2019 09:35:54] Load world: Worlds/world/world.struct
+[20.04.2019 09:35:54] Error: Open world struct: Worlds/world/world.struct
+[20.04.2019 09:36:04] ***STOP_FUNCTION_MAIN***
+[20.04.2019 09:37:07] ***START_FUNCTION_MAIN***
+[20.04.2019 09:37:10] Save world: Worlds/world/world.struct
+[20.04.2019 09:37:10] Error: Save world: Worlds/world/
+[20.04.2019 09:37:26] ***START_FUNCTION_MAIN***
+[20.04.2019 09:37:26] Load world: Worlds/world/world.struct
+[20.04.2019 09:37:26] Error: Open world struct: Worlds/world/world.struct
+[20.04.2019 09:37:33] ***STOP_FUNCTION_MAIN***
+[20.04.2019 09:40:10] ***START_FUNCTION_MAIN***
+[20.04.2019 09:40:12] Save world: Worlds/world/world.struct
+[20.04.2019 09:40:12] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:16:37] ***START_FUNCTION_MAIN***
+[20.04.2019 10:16:40] Save world: Worlds/world/world.struct
+[20.04.2019 10:16:40] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:19:48] ***START_FUNCTION_MAIN***
+[20.04.2019 10:19:51] Save world: Worlds/world/world.struct
+[20.04.2019 10:19:51] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:21:05] ***START_FUNCTION_MAIN***
+[20.04.2019 10:21:08] Save world: Worlds/world/world.struct
+[20.04.2019 10:21:08] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:22:13] ***START_FUNCTION_MAIN***
+[20.04.2019 10:22:16] Save world: Worlds/world/world.struct
+[20.04.2019 10:22:16] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:23:22] ***START_FUNCTION_MAIN***
+[20.04.2019 10:23:24] Save world: Worlds/world/world.struct
+[20.04.2019 10:23:24] Error: Save world: Worlds/world/world.struct
+[20.04.2019 10:24:35] ***START_FUNCTION_MAIN***
+[20.04.2019 10:24:38] Save world: Worlds/world/world.struct
+[20.04.2019 10:24:38] Error: Save world: Worlds/world/world.struct
+[20.04.2019 15:46:46] ***START_FUNCTION_MAIN***
+[20.04.2019 15:46:50] Save world: Worlds/world/world.struct
+[20.04.2019 15:46:50] Error: Save world: Worlds/world/world.struct
+[20.04.2019 15:47:44] ***START_FUNCTION_MAIN***
+[20.04.2019 15:47:47] Save world: Worlds/world/world.struct
+[20.04.2019 15:47:47] Error: Save world: Worlds/world/world.struct
+[20.04.2019 15:48:48] ***START_FUNCTION_MAIN***
+[20.04.2019 15:48:50] Save world: Worlds/world/world.struct
+[20.04.2019 15:48:50] Save world: Worlds/world/Bots/0.list
+[20.04.2019 15:48:52] ***STOP_FUNCTION_MAIN***
+[20.04.2019 15:50:35] ***START_FUNCTION_MAIN***
+[20.04.2019 15:50:38] Save world: Worlds/world/world.struct
+[20.04.2019 15:50:38] Save world: Worlds/world/Bots/0.list
+[20.04.2019 15:50:50] ***STOP_FUNCTION_MAIN***
+[20.04.2019 21:49:55] ***START_FUNCTION_MAIN***
+[20.04.2019 21:49:58] Save world: Worlds/world/world.struct
+[20.04.2019 21:49:58] Save world: Worlds/world/Bots/0.list
+[20.04.2019 21:54:58] ***START_FUNCTION_MAIN***
+[20.04.2019 21:55:00] Save world: Worlds/world/world.struct
+[20.04.2019 21:55:00] Save world: Worlds/world/Bots/0.list
+[20.04.2019 21:55:51] ***START_FUNCTION_MAIN***
+[20.04.2019 21:55:54] Save world: Worlds/world/world.struct
+[20.04.2019 21:55:54] Save world: Worlds/world/Bots/0.list
+[20.04.2019 21:56:59] ***START_FUNCTION_MAIN***
+[20.04.2019 21:57:02] Save world: Worlds/world/world.struct
+[20.04.2019 21:57:02] Save world: Worlds/world/Bots/0.list
+[20.04.2019 21:57:23] ***START_FUNCTION_MAIN***
+[20.04.2019 21:57:26] Save world: Worlds/world/world.struct
+[20.04.2019 21:57:26] Save world: Worlds/world/Bots/0.list
+[20.04.2019 21:57:42] ***START_FUNCTION_MAIN***
+[20.04.2019 21:57:45] Save world: Worlds/world/world.struct
+[20.04.2019 21:57:45] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:00:01] ***START_FUNCTION_MAIN***
+[20.04.2019 22:00:04] Save world: Worlds/world/world.struct
+[20.04.2019 22:00:04] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:01:07] ***START_FUNCTION_MAIN***
+[20.04.2019 22:01:09] Save world: Worlds/world/world.struct
+[20.04.2019 22:01:09] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:01:30] ***START_FUNCTION_MAIN***
+[20.04.2019 22:01:33] Save world: Worlds/world/world.struct
+[20.04.2019 22:01:33] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:01:50] ***START_FUNCTION_MAIN***
+[20.04.2019 22:01:53] Save world: Worlds/world/world.struct
+[20.04.2019 22:01:53] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:02:17] ***START_FUNCTION_MAIN***
+[20.04.2019 22:02:20] Save world: Worlds/world/world.struct
+[20.04.2019 22:02:20] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:21:43] ***START_FUNCTION_MAIN***
+[20.04.2019 22:21:46] Save world: Worlds/world/world.struct
+[20.04.2019 22:21:46] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:22:08] ***START_FUNCTION_MAIN***
+[20.04.2019 22:22:10] Save world: Worlds/world/world.struct
+[20.04.2019 22:22:10] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:22:30] ***START_FUNCTION_MAIN***
+[20.04.2019 22:22:32] Save world: Worlds/world/world.struct
+[20.04.2019 22:22:33] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:23:00] ***START_FUNCTION_MAIN***
+[20.04.2019 22:23:03] Save world: Worlds/world/world.struct
+[20.04.2019 22:23:03] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:23:34] ***START_FUNCTION_MAIN***
+[20.04.2019 22:23:37] Save world: Worlds/world/world.struct
+[20.04.2019 22:23:37] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:23:57] ***START_FUNCTION_MAIN***
+[20.04.2019 22:23:59] Save world: Worlds/world/world.struct
+[20.04.2019 22:23:59] Save world: Worlds/world/Bots/0.list
+[20.04.2019 22:24:18] ***START_FUNCTION_MAIN***
+[20.04.2019 22:24:21] Save world: Worlds/world/world.struct
+[20.04.2019 22:24:21] Save world: Worlds/world/Bots/0.list
